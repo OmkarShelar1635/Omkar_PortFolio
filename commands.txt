@@ -1,0 +1,12 @@
+npm create vite@latest
+npm install react-router-dom
+ npm install react-icons     
+  npm install framer-motion
+   npm run dev
+   
+   **tailwind setup
+   npm install tailwindcss @tailwindcss/vite
+ add  import tailwindcss from '@tailwindcss/vite' , tailwindcss() in vite.config.js
+add @import "tailwindcss" in index.css
+
+add @import url('https://fonts.googleapis.com/css2?family=Martel+Sans:wght@200;300;400;600;700;800;900&family=Outfit:wght@100..900&family=Poppins:wght@300;400;700&family=Saira:ital,wght@0,100..900;1,100..900&display=swap'); to index.css
